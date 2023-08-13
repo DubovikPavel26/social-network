@@ -31,7 +31,7 @@ function App() {
                 My post
                 <div>New post</div>
                 <div>
-                    <div>post 1</div>
+                    <div>post 12</div>
                     <div>post 2</div>
                 </div>
             </div>
